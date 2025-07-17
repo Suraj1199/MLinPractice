@@ -1,2 +1,2 @@
 # Machine Learning and Deep Learning in Practice
-Stores machine learning and deep learning codes practiced on local machine.
+A collection of ML and DL tutorial notebooks with Sklearn and Tensorflow
